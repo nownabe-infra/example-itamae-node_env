@@ -1,0 +1,4 @@
+{
+  "password": "env[IR_PASSWORD]",
+  "id_rsa": "env[IR_ID_RSA]"
+}
