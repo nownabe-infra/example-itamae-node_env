@@ -1,5 +1,3 @@
-Bundler.require
-
 file "/tmp/node_env_password" do
   content node["password"]
 end
